@@ -1,7 +1,7 @@
 # <strong>RightAirBlack</strong>
-![My github stats](https://github-readme-stats.vercel.app/api?username=RightAirBlack&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=nakul1010&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RightAirBlack&layout=compact&hide_border=true&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakul1010&layout=compact&hide_border=true&hide=html,css)
 
 ## Something useless
 - <strong> [NTLANG](https://github.com/RightAirBlack/NTLang/) </strong>
